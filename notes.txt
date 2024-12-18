@@ -1,5 +1,5 @@
-this is first git demo
+This is first git demo
 
-By damodar baral
+By Er. Damodar baral
 061-32160(res)
 9856033186(cell)
